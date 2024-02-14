@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test | --forceExit",
+    "test": "ng test && --forceExit",
     "test2": "ng test",
     "find-deadcode": "ts-prune"
   },
